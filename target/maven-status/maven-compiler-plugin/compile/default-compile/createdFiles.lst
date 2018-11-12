@@ -1,0 +1,6 @@
+com/kevinheise/application/Week9Application.class
+com/kevinheise/entity/User.class
+com/kevinheise/persistence/SessionFactoryProvider.class
+com/kevinheise/application/UserRole.class
+com/kevinheise/persistence/GenericDao.class
+com/kevinheise/entity/Role.class
